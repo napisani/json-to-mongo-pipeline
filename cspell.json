@@ -1,0 +1,10 @@
+{
+  "version": "0.3",
+  "language": "en",
+  "ignorePaths": [
+    "dist",
+    "build"
+  ],
+  "ignoreWords": [
+  ]
+}
