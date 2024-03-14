@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-TAG="v1.1"
+# change this tag when a new release is made
+TAG="v1.2"
 IS_MACOS=$(uname -s | grep -i Darwin)
 IS_LINUX=$(uname -s | grep -i Linux)
 ARCH=$(uname -m)
