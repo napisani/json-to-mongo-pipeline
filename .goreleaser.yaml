@@ -12,8 +12,8 @@ builds:
   - env:
       - CGO_ENABLED=0
 
-    binary: json-to-mongo-pipeline 
-    main: .
+    binary: json-to-mongo-pipeline-go
+    main: main.go
 
     goos:
       - linux
